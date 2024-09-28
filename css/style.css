@@ -62,7 +62,7 @@ header {
 }
 
 .nav-items {
-    color: rgb(189, 10, 165) !important;
+    color: rgb(250, 250, 250) !important;
     margin-left: 3rem;
     padding-right: 2rem !important;
 }
@@ -96,11 +96,11 @@ header {
 }
 
 .banner-text .main-head span {
-    color: #FBC103;
+    color: #121212;
 }
 
 .banner-text p {
-    color: #F44236;
+    color: #000000;
     font-size: 24px;
     margin: 0;
     font-weight: bold;
@@ -188,7 +188,7 @@ header {
 }
 
 hr {
-    border: 1px solid #FBC103;
+    border: 1px solid #ffffff;
     display: block;
     width: 70px;
     margin: auto;
@@ -231,8 +231,8 @@ hr {
     width: 19rem;
     height: 19rem;
     border-radius: 50%;
-    box-shadow: 0 0 40px #F44236;
-    background: linear-gradient(-180deg, #FBC103, #F44236);
+    box-shadow: 0 0 40px #000000;
+    background: linear-gradient(-180deg, #f2f2f1, #e0e0e0);
 }
 
 .round-2 {
@@ -315,7 +315,7 @@ hr {
 
 .socials i {
     margin: 0 10px;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .socials a {
@@ -350,7 +350,7 @@ hr {
 }
 
 .subscribe-button {
-    background: #FBC103 !important;
+    background: #e6e6e6 !important;
 }
 
 .copyright-text {

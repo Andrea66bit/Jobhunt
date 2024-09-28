@@ -1,5 +1,5 @@
-CSwala Website File Structure
-CSwala-website/
+FIND HIRE Website File Structure
+FIND HIRE-website/
 |
 |- public # Contains the favicon, etc. Any files within this directory will not be processed by Webpack but copied directly to the build folder.
 |- src: # Contains all source code for the React application.
